@@ -1,9 +1,24 @@
 # Amin Turbine
+
 The purpose of this project is to design and build an Amin turbine.
 
 Sanjay Amin is an american inventor who invented a turbine capable of converting the thermal energy of the air into mechanical (and thereby electrical) energy.
 
-This apparent violation of the second law of thermodynamics is not such since, as the Fluctuation Theorem proved, under certain conditions the second law does not hold.
+## Second Law of Thermodynamics
+
+The apparent violation of the Second Law of Thermodynamics (SLoT) of the turbine process may be resolved by either of the following arguments.
+
+<u>Argument 1</u>
+
+The Fluctuation Theorem proved that for some systems under certain conditions the probability of SLoT not being fulfilled is greater than zero.
+
+<u>Argument 2</u>
+
+References: "Entropy - An Expanded Explanation", Steven J. Smith, http://whale.to/b/entropy.html.
+
+In normal systems, removing heat from the system (e.g. by converting it into work) lowers its entropy which, in the absence of any other effect, would go against the SLoT. However, for a system in an inverted population state, lowering its energy (again by for instance producing work) increases its entropy, so that the SLoT is automatically fulfilled and no cold sink is required.
+
+## Components
 
 The complete machine would comprise:
 
